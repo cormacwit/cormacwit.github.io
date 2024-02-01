@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('https://t4.ftcdn.net/jpg/03/58/10/87/360_F_358108785_rNJtmort9m65M3pft5swd7lnKJcTCB8u.jpg');
+    background-image: url('https://wallpaperaccess.com/full/316894.jpg');
     background-size: cover;
     color: #fff;
 }
@@ -25,16 +25,20 @@ header {
 }
 
 .profile {
-    flex: 1;
     width: 20%;
-    background-color: #666;
+    flex: 1;
+    background-color: #555; 
     padding: 20px;
+    border-bottom: 3px solid rgb(255, 255, 255);
+    border-left: 3px solid rgb(255, 255, 255); 
 }
 
 .content {
     flex: 4;
-    background-color: #666;
+    background-color: #555; 
     padding: 20px;
+    border-bottom: 3px solid rgb(255, 255, 255); 
+    border-left: 3px solid rgb(255, 255, 255); 
 }
 
 .profile-info {
